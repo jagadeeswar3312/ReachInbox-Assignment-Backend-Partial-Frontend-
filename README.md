@@ -138,8 +138,9 @@ How environment variables secure the project
 
 The current frontend progress and next steps
 
-(Attach your recorded video here, e.g., YouTube link or .mp4 file in /demo folder.)
+ THE VEDIO LINK:  https://youtu.be/0ulzuOzYHHM?si=GMK6QocB9w5lsJPy
 
+ 
 🤝 Conclusion
 
 This project helped me understand backend integration, email fetching via IMAP, and how to securely use OpenAI APIs.
@@ -152,5 +153,4 @@ It’s a strong foundation to build a complete AI-assisted email management plat
 
 Jagadeeshwara Reddy
 B.Tech Student | MERN & AI Enthusiast
-📧 [your_email@example.com
-]
+📧 papireddyjaga123@gmail.com
